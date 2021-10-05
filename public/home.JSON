@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "24-Hour Support Session Online",
+        "id": "1",
+        "Description": "You can come for support for any educational problem related to our Course on Online. You will find Online links to join our Support Session in Our Website by Logging into your profile.",
+        "Image": "https://assets-global.website-files.com/5e4319072e6fb910d3a508a6/60f76eae70af8d0947c32050_PI%20Planning.png"
+    },
+    {
+        "Name": "Weekly Exams to evaluate progress of our students",
+        "id": "2",
+        "Description": "Our team will make unique Question Papers for examination. We will allow students to give this exam in both offline and online. Students will get unique prizes according to their results",
+        "Image": "https://previews.123rf.com/images/deagreez/deagreez1612/deagreez161200615/67953804-yeah-happy-student-celebrating-successful-ending-of-exams.jpg"
+    },
+    {
+        "Name": "Special Strategy For Students who will find it difficult to finish the Course.",
+        "id": "3",
+        "Description": "Those who will lag behind or find it difficult to progress forward,we will provide them with special strategies to catch up with the course and finish it on time and if needed we will provide motivation.",
+        "Image": "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2021/05/life-lessons-from-graduation-speeches.jpeg"
+    },
+    {
+        "Name": "Post-course help to help find a job",
+        "id": "4",
+        "Description": "We will also help students after the course so that he/she can find a job.",
+        "Image": "https://d3n8a8pro7vhmx.cloudfront.net/handicapinternational/pages/4730/attachments/original/1539893063/hero_c_E-FitteDuval_Handicap-International__Mamadou_Bah_is_a_paid_intern_at_BICIS_bank_in_Senegal.jpg?1539893063"
+    },
+    {
+        "Name": "Mock Job Interviews",
+        "id": "5",
+        "Description": "Our team will take mock interviews regularly to prepare students for job interview",
+        "Image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/125673713/original/998e8a00a48b93bca83be2d4e0a89d68ea74c865/do-a-mock-interview-for-eu-visa-and-universities.jpeg"
+    },
+    {
+        "Name": "Assignements that will make students professional",
+        "id": "6",
+        "Description": "We will give unique assignements to our students that will help students to understand professional world",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvvp3m1THfvMAAb2LQ2YoyHbrEacgmF1H9w-shtku1DTLVbyoo_yapOm-_AqRQzIB864&usqp=CAU"
+    }
+]

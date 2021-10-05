@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Sakib khan",
+        "key": 1,
+        "age": 45,
+        "country": "Bangladesh",
+        "job": "Graphics Designer Specialists",
+        "salary": 100000,
+        "fig": "https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg"
+    },
+    {
+        "name": "Aryan Ibn Rashid",
+        "key": 2,
+        "age": 32,
+        "country": "Bangladesh",
+        "job": "AI Specialists",
+        "salary": 80000,
+        "fig": "https://buggyprogrammer.com/wp-content/uploads/2021/04/4-768x432.jpg"
+    },
+    {
+        "name": "Raihan Sadik",
+        "key": 3,
+        "age": 36,
+        "country": "Bangladesh",
+        "job": "UI UX Specialists",
+        "salary": 120000,
+        "fig": "https://lilacinfotech.com/lilac_assets/images/blog/Guidelines-to-b-a-good-programmer.jpg"
+    }
+]

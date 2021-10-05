@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Web Development Course",
+        "id": "1",
+        "Description": "In this course you will get the complete guide to be a professional web developer with our web development team",
+        "Duration": "3 Months",
+        "Assignements": "15",
+        "Price": "5000tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNWa_4D7bVpESc6LYXCNEDO1vUHkc75xsIrphtOD5RxZWw3irb9Vdv2XMA1WZdYGDZo8&usqp=CAU"
+    },
+    {
+        "Name": "Web Security Course",
+        "id": "2",
+        "Description": "In this course you will get the complete guide to be a professional on Web Security",
+        "Duration": "3 Months",
+        "Assignements": "16",
+        "Price": "5000tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://bs-uploads.toptal.io/blackfish-uploads/blog/common_mistakes_guide/content/cover_image_file/cover_image/16704/cover-Redesign-WebSecurityVulnerabilities-Luke_Newsletter-04d5cdafdaf363f0bc6aa723a391c343-91ee4d294318c967b26187f4d67a8351.png"
+    },
+    {
+        "Name": "Mobile App Development Course",
+        "id": "3",
+        "Description": "In this course you will get the complete guide to be a professional Mobile App Developer",
+        "Duration": "3 Months",
+        "Assignements": "16",
+        "Price": "5000tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://www.digitalauthority.me/wp-content/uploads/2019/04/shutterstock_572886535.jpg"
+    },
+    {
+        "Name": "Artificial Intelligence Course",
+        "id": "4",
+        "Description": "In this course you will get the complete guide to understand and work with AI",
+        "Duration": "3 Months",
+        "Assignements": "16",
+        "Price": "7000tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://img.etimg.com/thumb/msid-77198656,width-640,resizemode-4,imgsize-678126/first-what-is-the-big-fuss-really.jpg"
+    },
+    {
+        "Name": "Microsoft Excel Course",
+        "id": "5",
+        "Description": "In this course you will get the complete guide to be a master of Microsoft Excel",
+        "Duration": "1.5 Months",
+        "Assignements": "12",
+        "Price": "3000tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://pbs.twimg.com/profile_images/1129474049199882240/RZPZ1KYT.png"
+    },
+    {
+        "Name": "Graphics Designing Course",
+        "id": "6",
+        "Description": "In this course you will get the complete guide to be a graphics designer",
+        "Duration": "3 Months",
+        "Assignements": "14",
+        "Price": "4000tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/06/Types-of-graphic-design.jpg?auto=format&q=60&w=1860&h=1090&fit=crop&crop=faces"
+    },
+    {
+        "Name": "Be a Pro In Python",
+        "id": "7",
+        "Description": "In this course you will get the complete guide to be a master of python programmar",
+        "Duration": "3 Months",
+        "Assignements": "13",
+        "Price": "4500tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png"
+    },
+    {
+        "Name": "Be a Pro in Javascript",
+        "id": "8",
+        "Description": "In this course you will get the complete guide to be a Javascript Programmar",
+        "Duration": "3 Months",
+        "Assignements": "16",
+        "Price": "2500tk",
+        "Type": "You can watch videos at your will but can contact with the team directly via Google Meet Link",
+        "Image": "https://1.bp.blogspot.com/-O69mpIuNN1Y/YGGu9NeraeI/AAAAAAAASyk/AQuZYP6YRnkQtpypIUtijjKAz9Vs_7ggACLcBGAsYHQ/w1200-h630-p-k-no-nu/javascript-scripting-programming-language.png"
+    }
+]
